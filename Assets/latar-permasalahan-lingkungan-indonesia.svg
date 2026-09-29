@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Ilustrasi permasalahan lingkungan hidup di Indonesia</title>
+  <desc id="desc">Panorama kartun bernuansa oranye, hitam, dan kuning yang menampilkan hutan gundul, kebakaran, sungai tercemar sampah, serta asap industri tanpa gambar manusia.</desc>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#17120f"/>
+      <stop offset="0.48" stop-color="#9e3f19"/>
+      <stop offset="1" stop-color="#f7a928"/>
+    </linearGradient>
+    <linearGradient id="water" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#152d2b"/>
+      <stop offset="0.5" stop-color="#245d58"/>
+      <stop offset="1" stop-color="#102220"/>
+    </linearGradient>
+    <linearGradient id="smoke" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#191514" stop-opacity=".95"/>
+      <stop offset="1" stop-color="#544039" stop-opacity=".55"/>
+    </linearGradient>
+    <pattern id="grain" width="32" height="32" patternUnits="userSpaceOnUse">
+      <circle cx="4" cy="7" r="1.2" fill="#ffd15a" opacity=".16"/>
+      <circle cx="22" cy="25" r="1" fill="#ffda72" opacity=".12"/>
+    </pattern>
+  </defs>
+
+  <rect width="1600" height="900" fill="url(#sky)"/>
+  <circle cx="1260" cy="235" r="118" fill="#ffd34e" opacity=".92"/>
+  <circle cx="1260" cy="235" r="154" fill="none" stroke="#ffbd36" stroke-width="5" opacity=".34"/>
+  <path d="M0 355 Q180 295 360 354 T720 338 T1080 346 T1440 330 T1600 344 V470 H0Z" fill="#251612" opacity=".88"/>
+  <path d="M0 405 Q210 348 410 411 T815 395 T1215 405 T1600 384 V515 H0Z" fill="#4b2219" opacity=".84"/>
+
+  <!-- smoke and industrial pollution -->
+  <g fill="url(#smoke)">
+    <path d="M1165 480 C1085 423 1124 360 1190 376 C1142 312 1212 263 1276 301 C1260 235 1350 217 1382 277 C1442 230 1515 292 1480 351 C1558 359 1553 437 1480 454 C1453 510 1369 478 1356 431 C1290 489 1216 525 1165 480Z"/>
+    <path d="M1378 405 C1332 355 1370 310 1416 317 C1403 268 1460 238 1493 275 C1529 232 1588 269 1570 319 C1617 339 1598 402 1548 406 C1521 445 1456 430 1446 392 C1417 427 1396 426 1378 405Z" opacity=".7"/>
+  </g>
+  <g fill="#161313" stroke="#0b0a0a" stroke-width="10">
+    <path d="M1165 468 V292 H1242 V478Z"/>
+    <path d="M1274 466 V250 H1351 V471Z"/>
+    <path d="M1390 470 V318 H1464 V474Z"/>
+  </g>
+  <g fill="#f8bd38" opacity=".8">
+    <rect x="1182" y="329" width="28" height="8"/><rect x="1182" y="365" width="28" height="8"/>
+    <rect x="1291" y="293" width="28" height="8"/><rect x="1291" y="330" width="28" height="8"/><rect x="1291" y="367" width="28" height="8"/>
+    <rect x="1407" y="349" width="26" height="8"/><rect x="1407" y="383" width="26" height="8"/>
+  </g>
+  <path d="M1110 482 L1580 482 L1600 626 L1090 626Z" fill="#151313" stroke="#0a0909" stroke-width="12"/>
+  <path d="M1108 530 H1585 M1108 574 H1589" stroke="#3d2b22" stroke-width="9"/>
+
+  <!-- distant Indonesian islands -->
+  <path d="M0 468 C80 444 122 482 206 464 C280 448 347 481 430 466 C508 450 594 481 678 467 C742 456 818 486 893 470 C980 451 1051 483 1128 467 L1160 625 H0Z" fill="#152c24"/>
+  <path d="M0 492 Q90 462 178 494 T350 488 T520 493 T700 486 T880 495 T1060 488 T1160 496 V620 H0Z" fill="#234a35"/>
+
+  <!-- left deforestation and wildfire zone -->
+  <path d="M0 505 Q145 460 290 525 T570 498 T760 525 V900 H0Z" fill="#101a18"/>
+  <path d="M0 610 Q160 551 337 604 T690 587 T860 612 V900 H0Z" fill="#1e3025"/>
+  <g stroke="#0b0c0b" stroke-width="12" stroke-linejoin="round">
+    <path d="M104 620 L157 418 L211 620Z" fill="#355537"/>
+    <path d="M244 625 L299 373 L354 625Z" fill="#2c4c32"/>
+    <path d="M402 638 L458 420 L510 638Z" fill="#3d633d"/>
+    <path d="M556 626 L615 342 L672 626Z" fill="#294832"/>
+  </g>
+  <g fill="#b9751c" stroke="#100d0a" stroke-width="10">
+    <path d="M178 645 L215 534 L258 645Z"/><path d="M329 648 L365 558 L404 648Z"/><path d="M480 655 L516 559 L555 655Z"/><path d="M650 652 L685 548 L723 652Z"/>
+  </g>
+  <g fill="#ffcf36" stroke="#20100b" stroke-width="8">
+    <path d="M60 780 C27 729 101 691 119 747 C141 684 208 721 177 772 C224 774 209 838 157 826 C137 875 71 858 80 812 C33 821 17 793 60 780Z"/>
+    <path d="M420 795 C386 747 452 710 471 763 C491 704 560 736 532 783 C577 791 553 848 510 839 C492 885 429 859 441 821 C402 833 378 811 420 795Z"/>
+  </g>
+  <path d="M45 862 Q180 822 312 858 T600 850 T870 862 V900 H0Z" fill="#351a15"/>
+  <path d="M96 852 Q136 820 180 850 M456 858 Q500 824 542 853" stroke="#f36d1d" stroke-width="16" stroke-linecap="round"/>
+
+  <!-- polluted river foreground -->
+  <path d="M720 570 C860 530 951 590 1041 630 C1135 671 1245 690 1600 624 V900 H670 C755 831 774 757 720 570Z" fill="url(#water)" stroke="#0c1515" stroke-width="12"/>
+  <path d="M756 661 Q862 628 1009 699 T1284 736 T1590 686" fill="none" stroke="#4eaaa0" stroke-width="15" opacity=".65"/>
+  <path d="M750 742 Q877 703 1016 772 T1298 805 T1590 750" fill="none" stroke="#72c4a7" stroke-width="10" opacity=".46"/>
+  <g stroke="#161313" stroke-width="8">
+    <path d="M828 643 l39 -22 40 22 -20 36 -45 -2Z" fill="#f3b535"/>
+    <path d="M975 716 l34 -24 42 20 -13 38 -49 1Z" fill="#df6322"/>
+    <path d="M1170 754 l32 -25 38 23 -16 35 -44 -1Z" fill="#edc33b"/>
+    <path d="M1353 700 l42 -21 36 26 -22 35 -45 -7Z" fill="#df6e22"/>
+    <path d="M1464 820 l35 -25 42 22 -18 37 -44 -3Z" fill="#e7bc36"/>
+  </g>
+  <g fill="none" stroke="#eacb53" stroke-width="8" stroke-linecap="round">
+    <path d="M896 786 q34 -24 67 0 M1080 842 q30 -23 62 0 M1278 647 q29 -20 58 0"/>
+  </g>
+  <g fill="#f4c238" stroke="#151313" stroke-width="8">
+    <path d="M865 550 l28 26 -13 40 -35 -16Z"/><path d="M1022 590 l35 12 5 40 -42 -3Z"/><path d="M1512 588 l35 18 -8 38 -40 -13Z"/>
+  </g>
+
+  <!-- foreground soil and warning accents -->
+  <path d="M0 840 Q180 795 345 836 T690 827 Q780 820 860 840 L900 900 H0Z" fill="#221513"/>
+  <path d="M0 0 H1600 V900 H0Z" fill="url(#grain)"/>
+  <path d="M52 96 H380" stroke="#ffd247" stroke-width="10" stroke-linecap="round" opacity=".7"/>
+  <path d="M52 120 H248" stroke="#ff8a20" stroke-width="6" stroke-linecap="round" opacity=".9"/>
+</svg>

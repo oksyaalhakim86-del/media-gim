@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="510" viewBox="0 0 1200 510" role="img" aria-labelledby="title desc">
+  <title id="title">Permasalahan Lingkungan Hidup di Indonesia</title>
+  <desc id="desc">Judul tiga baris bergaya lettering kartun berwarna teal, hijau, dan oranye.</desc>
+  <g text-anchor="middle" font-family="Trebuchet MS, DejaVu Sans, sans-serif" font-weight="900" stroke="#123b42" stroke-width="12" stroke-linejoin="round" paint-order="stroke fill">
+    <text x="600" y="145" font-size="112" fill="#4ea6a5" transform="rotate(-2 600 145)">PERMASALAHAN</text>
+    <text x="600" y="292" font-size="105" fill="#68aa75" transform="rotate(1 600 292)">LINGKUNGAN HIDUP</text>
+    <text x="600" y="432" font-size="112" fill="#d8783e" transform="rotate(-1 600 432)">DI INDONESIA</text>
+  </g>
+</svg>
